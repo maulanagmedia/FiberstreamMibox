@@ -1,0 +1,2 @@
+rootProject.name='Fiberstream'
+include ':app', ':coremodul'
